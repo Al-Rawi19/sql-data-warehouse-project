@@ -1,6 +1,6 @@
 # Modern Data Warehouse and Analytics End-to-End Project
 
-welcome to the **DataWarehouse and Analytics Project** repository! 🎯
+welcome to the **DataWarehouse and Analytics Project** repository! 🎯<br>
 This project demonstrates a comprehensive data warehouseing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portofolio project, it highlights industry practices in data engineering and analytics.
 
 ---
